@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap');
+
+#team-page {
+    background-color: rgb(211, 211, 219);
+    float: left;
+    padding: 15px;
+    margin: 10px;
+    width: 225px;
+    height: 248px;
+}
+
+#team-page h1 {
+    margin: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:800
+}
+
+#team-page p {
+    margin: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#team-page h3.slogan {
+    padding: -6px;
+    margin: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:600
+}
